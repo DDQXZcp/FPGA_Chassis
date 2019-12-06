@@ -2,7 +2,7 @@
 FPGA Chassis control
 Developed by Herman TANG, HK PolyU
 It has following block
-> Encoder reading
+Encoder reading
 pid calculation
 odometry 
 pwm output
